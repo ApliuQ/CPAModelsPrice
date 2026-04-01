@@ -7,7 +7,7 @@
 
 <img width="519" height="318" alt="image" src="https://github.com/user-attachments/assets/200e4b3d-ee16-4ff8-a615-64642e89464a" />
 
-跨站效果图
+最终效果图
 
 <img width="254" height="387" alt="image" src="https://github.com/user-attachments/assets/1e683db6-7e11-4b6a-95ff-f55fbd282292" />
 
