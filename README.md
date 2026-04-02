@@ -3,7 +3,7 @@
 
 价格数据来源： https://models.dev/api.json
 
-使用方法：插件打开开发者模式，然后主动新增本地插件即可
+使用方法：下载源码zip并解压，继续打开插件界面（ chrome://extensions/ ），右上角扩展开启“开发者模式”，然后左上角点击加载未打包扩展程序，选择源码解压的目录即可。
 
 <img width="519" height="318" alt="image" src="https://github.com/user-attachments/assets/200e4b3d-ee16-4ff8-a615-64642e89464a" />
 
