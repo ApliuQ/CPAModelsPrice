@@ -1,4 +1,9 @@
 # CPAModelsPrice
+
+20260505：官方CPA已下线统计页面，需要更换其他方式
+
+
+
 自动获取并填充 CLI Proxy API 模型价格的 谷歌插件
 
 价格数据来源： https://models.dev/api.json
